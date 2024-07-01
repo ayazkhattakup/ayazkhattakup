@@ -4,7 +4,7 @@
 **ayazkhattak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Greetings! I'm **[ayaz khattak](https://www.linkedin.com/in/)**, a seasoned DevOps engineer with 5 years of experience across AWS, Azure, GCP, Heroku, and DigitalOcean. My hands-on expertise includes Docker, Kubernetes, Ansible, Chef, Terraform, and CloudFormation. Proficient in CI/CD tools such as Jenkins, GitHub Actions, Bitbucket Pipeline, TeamCity, GitLab CI/CD, AWS DevOps, and Azure DevOps. 
+Greetings! I'm **[Ayaz Khattak](https://www.linkedin.com/in/muhammmad-ayaz-b2248927b/)**, a seasoned DevOps engineer with 5 years of experience across AWS, Azure, GCP, Heroku, and DigitalOcean. My hands-on expertise includes Docker, Kubernetes, Ansible, Chef, Terraform, and CloudFormation. Proficient in CI/CD tools such as Jenkins, GitHub Actions, Bitbucket Pipeline, TeamCity, GitLab CI/CD, AWS DevOps, and Azure DevOps. 
 Let's collaborate to enhance your software development journey!
 
 
@@ -208,7 +208,7 @@ I'm well-versed in <strong>Agile, Scrum, CI/CD,</strong><strong> and Site Reliab
 <br>
 
 
-Connect with me on **[LinkedIn](https://www.linkedin.com/in/)**, and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. **Get in touch, and let's make it happen.** 🚀💼🌐
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammmad-ayaz-b2248927b/)**, and let's embark on a DevOps journey that leverages the full spectrum of DevOps tools and methodologies. Together, we'll set a new benchmark for software development excellence. **Get in touch, and let's make it happen.** 🚀💼🌐
 <br>
 <br>
 <br>
@@ -216,7 +216,7 @@ Connect with me on **[LinkedIn](https://www.linkedin.com/in/)**, and let's embar
 
 ### 📫 How to reach me?
 
-# - Visit my [Profile](https://www.google.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/) 👨🏻‍💻
-# - Follow me on [Instagram](https://www.instagram.com/) ✨
+# - Visit my [Profile](https://github.com/ayazkhattakup/) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammmad-ayaz-b2248927b/) 👨🏻‍💻
+# - Connect me on [Facebook](https://web.facebook.com/profile.php?id=100037617795112) ✨
  - Shoot Me an [Email](mailto:ayazkhattakupwork@gmail.com) 💌
